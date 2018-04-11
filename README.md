@@ -38,7 +38,7 @@ Vemos la placa [Documentación](http://www.arduino.org/learning/getting-started/
     * REVISAR 2 VECES ANTES DE CONECTAR LA ALIMENTACIÓN
 1. Entorno de Arduino
 
-## [Proyecto: Domótica en  SmartCities 2,5H](https://github.com/javacasm/SmartCities_Domotica)
+## [Proyecto: Domótica en  SmartCities 2,5H](https://github.com/guadalinfo/SmartCities_Domotica)
 
 1. Hello Led y Conexión PC
     * Pines de Arduino
@@ -67,17 +67,17 @@ Vemos la placa [Documentación](http://www.arduino.org/learning/getting-started/
 
 ## Otros proyectos
 
-### [Eficiencia Energética](https://github.com/javacasm/SmartCities_Eficiencia)
+### [Eficiencia Energética](https://github.com/guadalinfo/SmartCities_Eficiencia)
 1. Control remoto de encendido
 1. Medida de consumo [Referencia](https://www.luisllamas.es/arduino-intensidad-consumo-electrico-acs712/)
 
 
-### [Estación Meteorológica](https://github.com/javacasm/SmartCities_Meteo)
+### [Estación Meteorológica](https://github.com/guadalinfo/SmartCities_Meteo)
 1. Datos Meteo
 1. Publicación de Datos
 1. Publicación en ThinkSpeak
 
-### [Huerto/sistema de riego](https://github.com/javacasm/SmartCities_Huerto)
+### [Huerto/sistema de riego](https://github.com/guadalinfo/SmartCities_Huerto)
 1. Medida de humedad
 1. Detección de lluvia
 1. Activación local de riego
@@ -88,4 +88,4 @@ Vemos la placa [Documentación](http://www.arduino.org/learning/getting-started/
 1. Comentamos la experiencias
 1. Posibles mejoras
 
-## [Contenido Kit](https://github.com/javacasm/SmartCities_Comunes/blob/master/Kit.md)
+## [Contenido Kit](https://github.com/guadalinfo/SmartCities_Comunes/blob/master/Kit.md)
